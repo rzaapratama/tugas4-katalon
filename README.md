@@ -37,3 +37,5 @@ Step 7: Verify Product Added
 Command: Verify Text Present
 Target: css=.shopping_cart_badge
 Value: 1
+
+Link spreadsheet test case : https://docs.google.com/spreadsheets/d/1mp2NQ55koRKKWryQzLK882HH-rErTMJ0lBx-9WlH21c/edit?usp=sharing
